@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmad-shabbir" alt="ahmad-shabbir" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/ahmadscripts" target="blank"><img src="https://img.shields.io/twitter/follow/ahmadscripts?logo=twitter&style=for-the-badge" alt="Shabbir81875318" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Shabbir81875318" target="blank"><img src="https://img.shields.io/twitter/follow/ahmadscripts?logo=twitter&style=for-the-badge" alt="Shabbir81875318" /></a> </p>
 
-- 🔭 I’m currently persuing **MCA for Tezpur Central University**
+- 🔭 I’m currently persuing **MCA from Tezpur Central University**
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
